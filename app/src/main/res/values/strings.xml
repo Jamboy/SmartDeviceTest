@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">民政智能设备控制</string>
+    <string name="tv_ip">智能终端设备IP地址:</string>
+    <string name="tv_port">智能设备终端端口值:</string>
+    <string name="et_ip">请输入ip地址</string>
+    <string name="ed_port">请输入端口值</string>
+    <string name="btn_cancel">取消连接</string>
+    <string name="btn_connect">连接终端</string>
+</resources>
